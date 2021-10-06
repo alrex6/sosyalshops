@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sosyalshops/static/css/main.6cd1c0ec.chunk.css",
+    "main.js": "/sosyalshops/static/js/main.bc40ce96.chunk.js",
+    "main.js.map": "/sosyalshops/static/js/main.bc40ce96.chunk.js.map",
+    "runtime-main.js": "/sosyalshops/static/js/runtime-main.4d37343f.js",
+    "runtime-main.js.map": "/sosyalshops/static/js/runtime-main.4d37343f.js.map",
+    "static/css/2.95f25948.chunk.css": "/sosyalshops/static/css/2.95f25948.chunk.css",
+    "static/js/2.e67e58f8.chunk.js": "/sosyalshops/static/js/2.e67e58f8.chunk.js",
+    "static/js/2.e67e58f8.chunk.js.map": "/sosyalshops/static/js/2.e67e58f8.chunk.js.map",
+    "static/js/3.b3b31350.chunk.js": "/sosyalshops/static/js/3.b3b31350.chunk.js",
+    "static/js/3.b3b31350.chunk.js.map": "/sosyalshops/static/js/3.b3b31350.chunk.js.map",
+    "index.html": "/sosyalshops/index.html",
+    "static/css/2.95f25948.chunk.css.map": "/sosyalshops/static/css/2.95f25948.chunk.css.map",
+    "static/css/main.6cd1c0ec.chunk.css.map": "/sosyalshops/static/css/main.6cd1c0ec.chunk.css.map",
+    "static/js/2.e67e58f8.chunk.js.LICENSE.txt": "/sosyalshops/static/js/2.e67e58f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d37343f.js",
+    "static/css/2.95f25948.chunk.css",
+    "static/js/2.e67e58f8.chunk.js",
+    "static/css/main.6cd1c0ec.chunk.css",
+    "static/js/main.bc40ce96.chunk.js"
+  ]
+}
