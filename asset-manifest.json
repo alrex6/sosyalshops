@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/sosyalshops/static/css/main.6cd1c0ec.chunk.css",
-    "main.js": "/sosyalshops/static/js/main.eb32ec68.chunk.js",
-    "main.js.map": "/sosyalshops/static/js/main.eb32ec68.chunk.js.map",
+    "main.js": "/sosyalshops/static/js/main.55d4f126.chunk.js",
+    "main.js.map": "/sosyalshops/static/js/main.55d4f126.chunk.js.map",
     "runtime-main.js": "/sosyalshops/static/js/runtime-main.4d37343f.js",
     "runtime-main.js.map": "/sosyalshops/static/js/runtime-main.4d37343f.js.map",
     "static/css/2.95f25948.chunk.css": "/sosyalshops/static/css/2.95f25948.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.95f25948.chunk.css",
     "static/js/2.e67e58f8.chunk.js",
     "static/css/main.6cd1c0ec.chunk.css",
-    "static/js/main.eb32ec68.chunk.js"
+    "static/js/main.55d4f126.chunk.js"
   ]
 }
